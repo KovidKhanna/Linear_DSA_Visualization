@@ -43,7 +43,9 @@ This framework is designed to break down complex operations into step-by-step vi
 -Linked list and its operations
 ![image](https://github.com/user-attachments/assets/ed6a68f3-9e6d-4e41-9e3e-880673ecdfc7)
 -Stack and its operations
+
 ![image](https://github.com/user-attachments/assets/24d14cff-15e6-486e-9aa8-e91e6c80d0b0)
+
 -Queue and its operations
 ![image](https://github.com/user-attachments/assets/85df3ff3-2142-4a9f-bfc0-75877853b72a)
 -Sorting algorithms
